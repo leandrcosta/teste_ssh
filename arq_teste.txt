@@ -1,0 +1,6 @@
+Linguagens pra aprender:
+JavaScript
+HTML
+CSS
+Java
+Python
